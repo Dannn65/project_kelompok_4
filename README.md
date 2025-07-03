@@ -19,7 +19,7 @@ Aplikasi ini dilengkapi dengan beberapa fitur keren:
 * **Manajemen Customer:** Data pelanggan baru otomatis tersimpan saat melakukan booking pertama kali, memudahkan untuk pencatatan riwayat.
 * **Cetak Struk Digital:** Setelah booking berhasil, aplikasi akan menampilkan struk digital yang berisi rincian transaksi.
 
-* 1. Form Booking Utama**
+**1. Form Booking Utama**
 *(Tempat operator melakukan semua keajaiban booking)*
 
 ![image](https://github.com/user-attachments/assets/bc6e3774-5f05-4f2e-bc03-643b182f4ecc)
