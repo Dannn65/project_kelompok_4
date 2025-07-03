@@ -21,18 +21,25 @@ Aplikasi ini dilengkapi dengan beberapa fitur keren:
 
 * 1. Form Booking Utama**
 *(Tempat operator melakukan semua keajaiban booking)*
+
 ![image](https://github.com/user-attachments/assets/bc6e3774-5f05-4f2e-bc03-643b182f4ecc)
+
 
 **2. Laporan Status Lapangan**
 *(Melihat lapangan mana yang nganggur dan mana yang lagi dipakai)*
+
 ![image](https://github.com/user-attachments/assets/8bd83812-ed68-4472-b672-b31ffc196b50)
+
 
 **3. Tampilan Jadwal Harian**
 *(Papan waktu interaktif untuk melihat jadwal dalam satu hari penuh)*
+
 ![image](https://github.com/user-attachments/assets/e245e777-651c-459e-b6c8-ceecdc63349c)
+
 
 **4. Struk Booking Digital**
 *(Bukti transaksi yang muncul setelah booking berhasil)*
+
 ![image](https://github.com/user-attachments/assets/bc4c8c2b-8646-4588-b88d-fa946321e2e6)
 
 ## Teknologi yang Digunakan
